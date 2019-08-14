@@ -1,0 +1,39 @@
+{
+    "authors": [
+        {
+            "email": null, 
+            "url": "https://os.mbed.com/users/SomeRandomBloke/", 
+            "maintainer": false, 
+            "name": "Andrew Lindsay"
+        }
+    ], 
+    "description": "A first port of the excellent Adafruit ST7735 library", 
+    "frameworks": [
+        "mbed"
+    ], 
+    "keywords": [
+        "adafruit", 
+        "lcd", 
+        "st7735", 
+        "tft"
+    ], 
+    "name": "Adafruit_ST7735", 
+    "platforms": [
+        "atmelsam", 
+        "freescalekinetis", 
+        "maxim32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "nxplpc", 
+        "siliconlabsefm32", 
+        "ststm32", 
+        "teensy", 
+        "wiznet7500"
+    ], 
+    "repository": {
+        "type": "hg", 
+        "url": "https://os.mbed.com/users/SomeRandomBloke/code/Adafruit_ST7735/"
+    }, 
+    "version": "c964b41674", 
+    "id": 2150
+}

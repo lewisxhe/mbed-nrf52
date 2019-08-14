@@ -1,21 +1,21 @@
-.pio/build/nrf52_dk/FrameworkMbed/features/nanostack/coap-service/source/coap_message_handler.o: \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/coap-service/source/coap_message_handler.c \
+.pio\build\nrf52_dk\FrameworkMbed\features\nanostack\coap-service\source\coap_message_handler.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\nanostack\coap-service\source\coap_message_handler.c \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/nsdynmemLIB.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/coap-service/source/include/coap_service_api_internal.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/coap-service/source/include/coap_message_handler.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/mbed-coap/mbed-coap/sn_coap_header.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_list.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/coap-service/source/include/coap_message_handler.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/mbed-coap/mbed-coap/sn_coap_protocol.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/mbed-coap/mbed-coap/sn_coap_header.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/mbed-coap/source/include/sn_coap_protocol_internal.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/mbed-coap/source/include/sn_coap_header_internal.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/mbed-coap/mbed-coap/sn_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/sal-stack-nanostack/nanostack/socket_api.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/sal-stack-nanostack/nanostack/ns_address.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_trace.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/mbed-trace/mbed-trace/mbed_trace.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/mbed-client-randlib/mbed-client-randlib/randLIB.h
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/nsdynmemLIB.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ns_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/COAP-S~1/source/include/coap_service_api_internal.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/COAP-S~1/source/include/coap_message_handler.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/MBED-C~1/mbed-coap/sn_coap_header.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ns_list.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/COAP-S~1/source/include/coap_message_handler.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/MBED-C~1/mbed-coap/sn_coap_protocol.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/MBED-C~1/mbed-coap/sn_coap_header.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/MBED-C~1/source/include/sn_coap_protocol_internal.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/MBED-C~1/source/include/sn_coap_header_internal.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/MBED-C~1/mbed-coap/sn_config.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/SAL-ST~2/NANOST~1/socket_api.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/SAL-ST~2/NANOST~1/ns_address.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ns_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ns_trace.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/MBED-T~1/mbed-trace/mbed_trace.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/MBED-C~3/MBED-C~1/randLIB.h

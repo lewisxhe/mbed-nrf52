@@ -1,0 +1,34 @@
+// AUTOMATICALLY GENERATED FILE. PLEASE DO NOT MODIFY IT MANUALLY
+
+// PIO Unified Debugger
+//
+// Documentation: https://docs.platformio.org/page/plus/debugging.html
+// Configuration: https://docs.platformio.org/page/projectconf/section_env_debug.html
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug",
+            "executable": "c:/Users/Lewis/Documents/PlatformIO/Projects/mbed-nrf52/.pio/build/nrf52_dk/firmware.elf",
+            "toolchainBinDir": "C:/Users/Lewis/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "svdPath": "C:/Users/Lewis/.platformio/platforms/nordicnrf52/misc/svd/nrf52.svd",
+            "preLaunchTask": {
+                "type": "PlatformIO",
+                "task": "Pre-Debug"
+            },
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (skip Pre-Debug)",
+            "executable": "c:/Users/Lewis/Documents/PlatformIO/Projects/mbed-nrf52/.pio/build/nrf52_dk/firmware.elf",
+            "toolchainBinDir": "C:/Users/Lewis/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "svdPath": "C:/Users/Lewis/.platformio/platforms/nordicnrf52/misc/svd/nrf52.svd",
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}

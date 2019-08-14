@@ -1,22 +1,22 @@
-.pio/build/nrf52_dk/FrameworkMbed/features/mbedtls/src/oid.o: \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/src/oid.c \
+.pio\build\nrf52_dk\FrameworkMbed\features\mbedtls\src\oid.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\mbedtls\src\oid.c \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/platform/inc/platform_mbed.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/check_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/oid.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/asn1.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/bignum.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/pk.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/md.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/rsa.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/ecp.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/ecdsa.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/cipher.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/platform_util.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/x509.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/rsa.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/platform.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/platform_time.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/mbedtls/inc/mbedtls/x509.h
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/config.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/platform/inc/platform_mbed.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/check_config.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/oid.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/config.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/asn1.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/bignum.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/pk.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/md.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/rsa.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/ecp.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/ecdsa.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/cipher.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/platform_util.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/x509.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/rsa.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/platform.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/platform_time.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/mbedtls/inc/mbedtls/x509.h

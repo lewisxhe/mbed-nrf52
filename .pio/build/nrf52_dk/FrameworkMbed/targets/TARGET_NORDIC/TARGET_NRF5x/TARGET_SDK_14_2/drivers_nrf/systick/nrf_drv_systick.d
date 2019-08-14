@@ -1,29 +1,29 @@
-.pio/build/nrf52_dk/FrameworkMbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/drivers_nrf/systick/nrf_drv_systick.o: \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/drivers_nrf/systick/nrf_drv_systick.c \
+.pio\build\nrf52_dk\FrameworkMbed\targets\TARGET_NORDIC\TARGET_NRF5x\TARGET_SDK_14_2\drivers_nrf\systick\nrf_drv_systick.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\targets\TARGET_NORDIC\TARGET_NRF5x\TARGET_SDK_14_2\drivers_nrf\systick\nrf_drv_systick.c \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/libraries/util/sdk_common.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_NRF52/TARGET_MCU_NRF52832/config/sdk_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/nrf5x_lf_clk_helper.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/libraries/util/nordic_common.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/compiler_abstraction.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/libraries/util/sdk_os.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/libraries/util/sdk_errors.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/TARGET_SOFTDEVICE_S132_FULL/headers/nrf_error.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/libraries/util/app_util.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf52.h \
- /Users/lewis/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M/core_cm4.h \
- /Users/lewis/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M/cmsis_version.h \
- /Users/lewis/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M/cmsis_compiler.h \
- /Users/lewis/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M/cmsis_gcc.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_NRF52/TARGET_MCU_NRF52832/device/cmsis_nvic.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf52.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_NRF52/TARGET_MCU_NRF52832/device/cmsis.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_NRF52/TARGET_MCU_NRF52832/device/cmsis_nvic.h \
- /Users/lewis/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M/mpu_armv7.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_NRF52/TARGET_MCU_NRF52832/device/system_nrf52.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf52_bitfields.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf51_to_nrf52.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf52_name_change.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/compiler_abstraction.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/libraries/util/sdk_macros.h
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/LIBRAR~1/util/sdk_common.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~3/TARGET~1/config/sdk_config.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/nrf5x_lf_clk_helper.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/LIBRAR~1/util/nordic_common.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/compiler_abstraction.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/LIBRAR~1/util/sdk_os.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/LIBRAR~1/util/sdk_errors.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/TARGET~1/headers/nrf_error.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/LIBRAR~1/util/app_util.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf52.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/cmsis/TARGET~1/core_cm4.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/cmsis/TARGET~1/cmsis_version.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/cmsis/TARGET~1/cmsis_compiler.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/cmsis/TARGET~1/cmsis_gcc.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~3/TARGET~1/device/cmsis_nvic.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf52.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~3/TARGET~1/device/cmsis.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~3/TARGET~1/device/cmsis_nvic.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/cmsis/TARGET~1/mpu_armv7.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~3/TARGET~1/device/system_nrf52.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf52_bitfields.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf51_to_nrf52.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf52_name_change.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/compiler_abstraction.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/LIBRAR~1/util/sdk_macros.h

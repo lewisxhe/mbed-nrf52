@@ -1,25 +1,25 @@
-.pio/build/nrf52_dk/FrameworkMbed/features/nanostack/mbed-mesh-api/source/mesh_system.o: \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/mbed-mesh-api/source/mesh_system.c \
+.pio\build\nrf52_dk\FrameworkMbed\features\nanostack\mbed-mesh-api\source\mesh_system.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\nanostack\mbed-mesh-api\source\mesh_system.c \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/sal-stack-nanostack-eventloop/nanostack-event-loop/eventOS_scheduler.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/sal-stack-nanostack-eventloop/nanostack-event-loop/eventOS_event.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_list.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/sal-stack-nanostack/nanostack/net_interface.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/sal-stack-nanostack/nanostack/platform/arm_hal_phy.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/nsdynmemLIB.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/mbed-client-randlib/mbed-client-randlib/randLIB.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/sal-stack-nanostack-eventloop/nanostack-event-loop/platform/arm_hal_timer.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/sal-stack-nanostack-eventloop/nanostack-event-loop/platform/eventloop_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/nanostack-hal-mbed-cmsis-rtos/ns_hal_init.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/mbed-mesh-api/source/include/mesh_system.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nanostack/sal-stack-nanostack-eventloop/nanostack-event-loop/eventOS_scheduler.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_error.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_retarget.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_trace.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/mbed-trace/mbed-trace/mbed_trace.h
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/SAL-ST~1/NANOST~1/eventOS_scheduler.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ns_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/SAL-ST~1/NANOST~1/eventOS_event.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ns_list.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ns_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/SAL-ST~2/NANOST~1/net_interface.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/SAL-ST~2/NANOST~1/platform/arm_hal_phy.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/nsdynmemLIB.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/MBED-C~3/MBED-C~1/randLIB.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/SAL-ST~1/NANOST~1/platform/arm_hal_timer.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/SAL-ST~1/NANOST~1/platform/eventloop_config.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/NANOST~2/ns_hal_init.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\nanostack\mbed-mesh-api\source\include/mesh_system.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/NANOST~1/SAL-ST~1/nanostack-event-loop/eventOS_scheduler.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_assert.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_error.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_retarget.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ns_trace.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/MBED-T~1/mbed-trace/mbed_trace.h

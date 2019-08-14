@@ -1,21 +1,23 @@
-.pio/build/nrf52_dk/FrameworkMbed/rtos/Mutex.o: \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/Mutex.cpp \
+.pio\build\nrf52_dk\FrameworkMbed\rtos\Mutex.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\rtos\Mutex.cpp \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/Mutex.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/mbed_rtos1_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/rtx4/cmsis_os.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/rtx5/RTX/Include/rtx_os.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/mbed_rtos_storage.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/mbed_rtx_conf.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/mbed_rtx.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/NonCopyable.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_debug.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/ScopedLock.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/Kernel.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_error.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_retarget.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h
+ C:/Users/Lewis/.platformio/packages/framework-mbed/rtos/Mutex.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/rtx5/Include/cmsis_os2.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/mbed_rtos1_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/rtx4/cmsis_os.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/rtx5/RTX/Include/rtx_os.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/mbed_rtos_storage.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/mbed_rtx_conf.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/mbed_rtx.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/NonCopyable.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_debug.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/ScopedLock.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/rtos/Kernel.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_error.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_retarget.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_assert.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_toolchain.h

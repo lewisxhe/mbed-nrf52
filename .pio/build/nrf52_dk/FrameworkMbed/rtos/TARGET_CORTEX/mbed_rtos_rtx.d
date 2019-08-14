@@ -1,33 +1,33 @@
-.pio/build/nrf52_dk/FrameworkMbed/rtos/TARGET_CORTEX/mbed_rtos_rtx.o: \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/mbed_rtos_rtx.c \
+.pio\build\nrf52_dk\FrameworkMbed\rtos\TARGET_CORTEX\mbed_rtos_rtx.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\rtos\TARGET_CORTEX\mbed_rtos_rtx.c \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_NRF52/TARGET_MCU_NRF52832/device/cmsis.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf52.h \
- /Users/lewis/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M/core_cm4.h \
- /Users/lewis/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M/cmsis_version.h \
- /Users/lewis/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M/cmsis_compiler.h \
- /Users/lewis/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M/cmsis_gcc.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_NRF52/TARGET_MCU_NRF52832/device/cmsis_nvic.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf52.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_NRF52/TARGET_MCU_NRF52832/device/cmsis.h \
- /Users/lewis/.platformio/packages/framework-mbed/cmsis/TARGET_CORTEX_M/mpu_armv7.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_NRF52/TARGET_MCU_NRF52832/device/system_nrf52.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf52_bitfields.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf51_to_nrf52.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/nrf52_name_change.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_SDK_14_2/device/compiler_abstraction.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/TARGET_NRF5x/TARGET_NRF52/TARGET_MCU_NRF52832/device/cmsis_nvic.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/mbed_rtx.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/mbed_rtos_storage.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/rtx5/RTX/Include/rtx_os.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/mbed_rtx_conf.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_error.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_retarget.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_critical.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/mbed_boot.h
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~3/TARGET~1/device/cmsis.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf52.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/cmsis/TARGET~1/core_cm4.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/cmsis/TARGET~1/cmsis_version.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/cmsis/TARGET~1/cmsis_compiler.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/cmsis/TARGET~1/cmsis_gcc.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~3/TARGET~1/device/cmsis_nvic.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf52.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~3/TARGET~1/device/cmsis.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/cmsis/TARGET~1/mpu_armv7.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~3/TARGET~1/device/system_nrf52.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf52_bitfields.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf51_to_nrf52.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/nrf52_name_change.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~4/device/compiler_abstraction.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/TARGET~2/TARGET~3/TARGET~1/device/cmsis_nvic.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/mbed_rtx.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\rtos\TARGET_CORTEX\mbed_rtos_storage.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/rtx5/RTX/Include/rtx_os.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/rtx5/Include/cmsis_os2.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\rtos\TARGET_CORTEX\mbed_rtx_conf.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_error.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_retarget.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_critical.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_toolchain.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\rtos\TARGET_CORTEX\mbed_boot.h

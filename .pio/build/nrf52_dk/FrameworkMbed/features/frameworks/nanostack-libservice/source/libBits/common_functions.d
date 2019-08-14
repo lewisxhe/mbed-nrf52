@@ -1,5 +1,5 @@
-.pio/build/nrf52_dk/FrameworkMbed/features/frameworks/nanostack-libservice/source/libBits/common_functions.o: \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/source/libBits/common_functions.c \
+.pio\build\nrf52_dk\FrameworkMbed\features\frameworks\nanostack-libservice\source\libBits\common_functions.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\frameworks\nanostack-libservice\source\libBits\common_functions.c \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/common_functions.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_types.h
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/common_functions.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ns_types.h

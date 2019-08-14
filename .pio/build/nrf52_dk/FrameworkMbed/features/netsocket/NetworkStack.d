@@ -1,31 +1,34 @@
-.pio/build/nrf52_dk/FrameworkMbed/features/netsocket/NetworkStack.o: \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/NetworkStack.cpp \
+.pio\build\nrf52_dk\FrameworkMbed\features\netsocket\NetworkStack.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\NetworkStack.cpp \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/NetworkStack.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/nsapi_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/SocketAddress.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/NetworkInterface.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/nsapi_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/Callback.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/DNS.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/nsapi_dns.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/NetworkStack.h \
- /Users/lewis/.platformio/packages/framework-mbed/events/EventQueue.h \
- /Users/lewis/.platformio/packages/framework-mbed/events/equeue/equeue.h \
- /Users/lewis/.platformio/packages/framework-mbed/events/equeue/equeue_platform.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/rtx5/Include/cmsis_os2.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/mbed_rtos_storage.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/rtx5/RTX/Include/rtx_os.h \
- /Users/lewis/.platformio/packages/framework-mbed/rtos/TARGET_CORTEX/mbed_rtx_conf.h \
- /Users/lewis/.platformio/packages/framework-mbed/targets/TARGET_NORDIC/mbed_rtx.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/Callback.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/NonCopyable.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_debug.h \
- /Users/lewis/.platformio/packages/framework-mbed/events/mbed_shared_queues.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_error.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_retarget.h
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\NetworkStack.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\nsapi_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/SocketAddress.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/nsapi_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/NetworkInterface.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/nsapi_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/Callback.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/DNS.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\DNS.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\nsapi_dns.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/NetworkStack.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/events/EventQueue.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/events/equeue/equeue.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/events/equeue/equeue_platform.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/rtx5/Include/cmsis_os2.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/mbed_rtos_storage.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/rtx5/RTX/Include/rtx_os.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/rtos/TARGET~1/mbed_rtx_conf.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/targets/TAC311~1/mbed_rtx.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/Callback.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/NonCopyable.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_debug.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/events/mbed_shared_queues.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_error.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_retarget.h

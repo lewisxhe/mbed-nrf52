@@ -1,20 +1,21 @@
-.pio/build/nrf52_dk/FrameworkMbed/features/netsocket/SocketAddress.o: \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/SocketAddress.cpp \
+.pio\build\nrf52_dk\FrameworkMbed\features\netsocket\SocketAddress.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\SocketAddress.cpp \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/SocketAddress.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/nsapi_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/NetworkInterface.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/nsapi_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/SocketAddress.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/Callback.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/DNS.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/NetworkStack.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/NetworkInterface.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ip4string.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ns_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/frameworks/nanostack-libservice/mbed-client-libservice/ip6string.h
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\SocketAddress.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\nsapi_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_preprocessor.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\NetworkInterface.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/nsapi_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/SocketAddress.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/Callback.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\DNS.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\NetworkStack.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/NetworkInterface.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ip4string.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ns_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/FRAMEW~1/NANOST~1/MBED-C~1/ip6string.h

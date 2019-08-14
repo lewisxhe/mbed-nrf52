@@ -1,20 +1,21 @@
-.pio/build/nrf52_dk/FrameworkMbed/features/netsocket/NetworkInterfaceDefaults.o: \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/NetworkInterfaceDefaults.cpp \
+.pio\build\nrf52_dk\FrameworkMbed\features\netsocket\NetworkInterfaceDefaults.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\NetworkInterfaceDefaults.cpp \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/NetworkInterface.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/nsapi_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/SocketAddress.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/nsapi_types.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/Callback.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/DNS.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/EthInterface.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/WiFiInterface.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/WiFiAccessPoint.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/CellularBase.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/CellularInterface.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/netsocket/MeshInterface.h
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/NetworkInterface.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/nsapi_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/SocketAddress.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/nsapi_types.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/platform/Callback.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/DNS.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\EthInterface.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\WiFiInterface.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/netsocket/WiFiAccessPoint.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\CellularBase.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\CellularInterface.h \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\netsocket\MeshInterface.h

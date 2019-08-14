@@ -1,33 +1,33 @@
-.pio/build/nrf52_dk/FrameworkMbed/features/nfc/source/nfc/NFCRemoteInitiator.o: \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/source/nfc/NFCRemoteInitiator.cpp \
+.pio\build\nrf52_dk\FrameworkMbed\features\nfc\source\nfc\NFCRemoteInitiator.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\nfc\source\nfc\NFCRemoteInitiator.cpp \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/nfc/NFCRemoteInitiator.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/nfc/NFCDefinitions.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/nfc_errors.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/acore/acore/ac_buffer.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/nfc/NFCRemoteEndpoint.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/nfc/NFCNDEFCapable.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/Span.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/ndef/ndef.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/nfc_common.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/nfc_errors.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/platform/nfc_debug.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/acore/acore/ac_macros.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/acore/acore/ac_buffer_reader.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/acore/acore/ac_buffer_builder.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/acore/acore/ac_stream.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/acore/acore/ac_buffer.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/acore/acore/ac_buffer_reader.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/acore/acore/ac_buffer_builder.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/tech/iso7816/iso7816_app.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/tech/iso7816/iso7816.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/transceiver/protocols.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/tech/isodep/isodep_target.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/transceiver/transceiver.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/transceiver/protocols.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/platform/nfc_transport.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/platform/nfc_scheduler.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/stack/tech/isodep/isodep.h
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/nfc/NFCRemoteInitiator.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/nfc/NFCDefinitions.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/nfc_errors.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/acore/acore/ac_buffer.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/nfc/NFCRemoteEndpoint.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/nfc/NFCNDEFCapable.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/Span.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/ndef/ndef.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/nfc_common.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/nfc_errors.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/platform/nfc_debug.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/acore/acore/ac_macros.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/acore/acore/ac_buffer_reader.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/acore/acore/ac_buffer_builder.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/acore/acore/ac_stream.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/acore/acore/ac_buffer.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/acore/acore/ac_buffer_reader.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/acore/acore/ac_buffer_builder.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/tech/iso7816/iso7816_app.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/tech/iso7816/iso7816.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/transceiver/protocols.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/tech/isodep/isodep_target.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/transceiver/transceiver.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/transceiver/protocols.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/platform/nfc_transport.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/platform/nfc_scheduler.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/stack/tech/isodep/isodep.h

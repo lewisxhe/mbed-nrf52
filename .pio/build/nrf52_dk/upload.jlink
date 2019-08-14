@@ -1,4 +1,4 @@
 h
-loadbin .pio/build/nrf52_dk/firmware.hex,0x0
+loadbin .pio\build\nrf52_dk\firmware.hex,0x0
 r
 q

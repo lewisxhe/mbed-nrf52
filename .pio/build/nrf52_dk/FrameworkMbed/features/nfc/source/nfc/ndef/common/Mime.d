@@ -1,11 +1,11 @@
-.pio/build/nrf52_dk/FrameworkMbed/features/nfc/source/nfc/ndef/common/Mime.o: \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/source/nfc/ndef/common/Mime.cpp \
+.pio\build\nrf52_dk\FrameworkMbed\features\nfc\source\nfc\ndef\common\Mime.o: \
+ C:\Users\Lewis\.platformio\packages\framework-mbed\features\nfc\source\nfc\ndef\common\Mime.cpp \
  .pio/build/nrf52_dk/mbed_config.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/nfc/ndef/common/Mime.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/Span.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
- /Users/lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/nfc/ndef/RecordParser.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/nfc/ndef/Record.h \
- /Users/lewis/.platformio/packages/framework-mbed/features/nfc/nfc/ndef/MessageBuilder.h
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/nfc/ndef/common/Mime.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/Span.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_assert.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_preprocessor.h \
+ C:/Users/Lewis/.platformio/packages/framework-mbed/platform/mbed_toolchain.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/nfc/ndef/RecordParser.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/nfc/ndef/Record.h \
+ C:/Users/Lewis/PLATFO~1/packages/FRAMEW~1/features/nfc/nfc/ndef/MessageBuilder.h
